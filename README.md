@@ -9,12 +9,12 @@ Roots
 
 Numerical methods to find roots of one variable equations.
 
-Available methods:
+_Available methods_:
 
-* **Bisection**
+* `**Bisection**`
 
-* **Raphson-Newton**
+* `**Raphson-Newton**`
 
-* **Secant method**
+* `**Secant method**`
 
 
