@@ -7,13 +7,15 @@ Roots
 -----------
 
 
+** WARNING: ** Under construction.
+
 Numerical methods to find roots of one variable equations.
 
-_Available methods_:
+_Available methods_:i
 
-* ` **Bisection** `
+* `Bisection`
 
-* `Raphson-Newton**`
+* `Raphson-Newton`
 
 * `Secant method`
 
