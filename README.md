@@ -11,8 +11,10 @@ Numerical methods to find roots of one variable equations.
 
 Available methods:
 
-*Bisection
-*Raphson-Newton
-*Secant method
+* **Bisection**
+
+* **Raphson-Newton**
+
+* **Secant method**
 
 
