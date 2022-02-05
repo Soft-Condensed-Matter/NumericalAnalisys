@@ -7,8 +7,11 @@ Roots
 -----------
 
 
-Paragraphs are separated 
-by a blank line.
+Numerical methods to find roots of one variable equations.
 
-Two spaces at the end of a line  
-produce a line break.
+Available methods:
+*Bisection
+*Raphson-Newton
+*Secant method
+
+
