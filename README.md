@@ -1,10 +1,11 @@
 Numerical Analysis
 =======
 
+# Roots of one variable equations  #
+
 Roots
 -----------
 
-# Roots of one variable equations  #
 
 Paragraphs are separated 
 by a blank line.
