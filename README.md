@@ -20,3 +20,36 @@ _Available methods_:i
 * `Secant method`
 
 
+
+
+# Algebraic linear equations system  #
+
+LinearEquations
+-----------
+
+
+
+
+# Fit and interpolation  #
+
+Interpolation
+-----------
+
+
+
+# Numerical derivation and integration  #
+
+Derivation
+-----------
+
+
+
+
+# Ordinary diferential equations  #
+
+ODE
+-----------
+
+
+
+
