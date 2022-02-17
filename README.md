@@ -1,6 +1,8 @@
 Numerical Analysis
 =======
 
+
+
 # Errors and where to find it  #
 
 Numerical errors
