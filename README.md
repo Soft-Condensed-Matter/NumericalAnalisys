@@ -1,6 +1,17 @@
 Numerical Analysis
 =======
 
+# Errors and where to find it  #
+
+Numerical errors
+-----------
+_Available methods_:
+
+* `Free fall`:
+   This program computes the velocity in a free fall scenario with friction proportional 
+   to the velocity. Results are computed with the analytical result of the Newton law and 
+   with the aproximation trough the Euler method to respective motion equation
+
 # Roots of one variable equations  #
 
 Roots
@@ -11,7 +22,7 @@ Roots
 
 Numerical methods to find roots of one variable equations.
 
-_Available methods_:i
+_Available methods_:
 
 * `Bisection`
 
