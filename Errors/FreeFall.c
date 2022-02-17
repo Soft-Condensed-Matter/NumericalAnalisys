@@ -1,7 +1,7 @@
 /**%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%**/
 /**%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%**/
 /**%%   PROGRAM          FREE FALL WITH FRICTION                           %%**/
-/**%%   AUTHOR           ALEXIS TORRES alpixesl.io@gmail.com               %%**/
+/**%%   AUTHOR           ALEXIS TORRES alpixels.io@gmail.com               %%**/
 /**%%   LICENCE          GNU LGPL-V3                                       %%**/
 /**%%   DATE             FEBREAURY 16, 2022                                %%**/
 /**%%   VERSION          BETA                                              %%**/
