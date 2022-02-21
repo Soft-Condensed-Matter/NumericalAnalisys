@@ -41,8 +41,8 @@ int main(){
    vz=0.0;                                  //Initial velocity
    vzn=0.0;                                 //Euler velocity
    idt=0.0;                                 //Initial time
-   dt=2;                                    //Time step
-   n=10;                                    //Number of iterations
+   dt=0.01;                                  //Time step
+   n=2000;                                    //Number of iterations
 
    for(i=0;i<n;i++){                        //Iteration cicle
        vz=(g*m/c)*(1.0 - exp(-c*idt/m));    //Analytical velocity
