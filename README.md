@@ -80,4 +80,4 @@ ODE
 This repository is maintained by @github/Alpixels
 
 
-Stay in touch, follow me on Twitter @Alpixels
+Stay in touch, follow me on Twitter [ @Alpixels ](https://twitter.com/Alpixels)
