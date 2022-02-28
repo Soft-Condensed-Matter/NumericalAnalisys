@@ -24,3 +24,5 @@ _Available methods_:
    The numerical estability or inestability of a code is ilustrated through the Basilea 
    problem. Furthermore the errors due to the numerical representation, single or double 
    presicion are also determined.
+
+   ![Expected results](https://github.com/Soft-Condensed-Matter/NumericalAnalisys/blob/main/Errors/RelativError.png)
